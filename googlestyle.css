@@ -1,0 +1,23 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    top: 0;
+    position: fixed;
+    width:1750px;
+}
+
+li {
+    float: right;
+}
+
+a{
+    display: block;
+    padding: 8px;
+}
+
+body{
+    text-align: center;
+    margin-top: 170px;
+}
